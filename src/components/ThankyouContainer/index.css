@@ -1,0 +1,9 @@
+img {
+  width: 50px;
+}
+.thankyou-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

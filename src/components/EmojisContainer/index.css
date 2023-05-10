@@ -1,0 +1,11 @@
+img {
+  width: 100px;
+}
+p {
+  text-align: center;
+}
+button {
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
